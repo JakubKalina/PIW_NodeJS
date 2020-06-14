@@ -1,4 +1,6 @@
 var math = require('./math');
+var joke = require('./joke');
+var axiosTest = require('./axiosTest');
 
 
 for (let i = 0; i < 16; i++) {
@@ -9,5 +11,11 @@ for (let i = 0; i < 16; i++) {
         console.error(math.fibonacci(i));
     }
 }
+
+console.log("Żart:")
+console.log(joke.getJoke());
+
+console.log("Zapytanie API:")
+axiosTest.getData();
 
 process.exit(0);

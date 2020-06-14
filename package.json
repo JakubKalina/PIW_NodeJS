@@ -1,0 +1,23 @@
+{
+  "name": "piwlab6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakubKalina/PIW_NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakubKalina/PIW_NodeJS/issues"
+  },
+  "homepage": "https://github.com/JakubKalina/PIW_NodeJS#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "one-liner-joke": "^1.2.0"
+  }
+}
