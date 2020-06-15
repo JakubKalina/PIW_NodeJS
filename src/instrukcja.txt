@@ -1,0 +1,23 @@
+
+Zadanie 2
+
+Aby przetestować działanie należy uruchomić plik index.js
+Wartości wynikowe są zapisywane do plików stdout.log i stderr.log
+
+
+
+Zadanie 3.1
+
+Aby przetestować działanie należy uruchomić plik index.js
+Wyświetlony zostanie w konsoli losowy żart z modułu.
+
+
+
+Zadanie 3.2
+
+Aby przetestować działanie należy uruchomić plik axiosTest.js
+
+
+Zadanie 4
+
+Aby przetestować działanie należy uruchomić plik server.js
